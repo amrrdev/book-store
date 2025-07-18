@@ -1,0 +1,26 @@
+{
+  "name": "nti-project",
+  "version": "1.0.0",
+  "description": "book store",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrrdev/book-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amrrdev/book-store/issues"
+  },
+  "homepage": "https://github.com/amrrdev/book-store#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4",
+    "nodemon": "^3.1.10"
+  }
+}
